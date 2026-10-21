@@ -13,7 +13,7 @@
 
 A Python Flask web application that accepts an image uploaded by a user, sends it to **Microsoft Azure AI Vision**, and presents the returned image-analysis results in a simple web interface.
 
-> **Interactive project page:** After enabling GitHub Pages, add your published site URL here. It will usually look like `https://YOUR-USERNAME.github.io/AzureImageAnalysis/`.
+> **Interactive project page:** `(https://shruti0796.github.io/ImageAnalysis/)`
 
 ## Contents
 
