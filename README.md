@@ -105,7 +105,7 @@ The application uses the Azure Image Analysis REST API with the `2024-02-01` API
 ### 2. Clone the repository
 
 ```bash
-git clone https://github.com/YOUR-USERNAME/AzureImageAnalysis.git
+git clone https://github.com/Shruti0796/AzureImageAnalysis.git
 cd AzureImageAnalysis
 ```
 
