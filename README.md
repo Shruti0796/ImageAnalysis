@@ -13,7 +13,7 @@
 
 A Python Flask web application that accepts an image uploaded by a user, sends it to **Microsoft Azure AI Vision**, and presents the returned image-analysis results in a simple web interface.
 
-> **Interactive project page:** `(https://shruti0796.github.io/ImageAnalysis/)`
+> **Interactive project page:** (https://shruti0796.github.io/ImageAnalysis/)
 
 ## Contents
 
